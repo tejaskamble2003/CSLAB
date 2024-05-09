@@ -1,0 +1,4 @@
+Step 1) sudo apt-get update
+Step 2) sudo apt-get install python3.pip
+Step 3) sudo python3 –m pip install -- pre scapy[complete]
+Step 4) sudo scapy
